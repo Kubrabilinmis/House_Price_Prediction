@@ -14,6 +14,6 @@ House prices are left blank in the test dataset, and these values will be estima
 
 
 
-## Kaggle   
+## My Kaggle Notebook
 * https://www.kaggle.com/kubrabilinmis/house-price-predictionn
 
