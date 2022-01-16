@@ -12,5 +12,5 @@ House prices are left blank in the test dataset, and these values will be estima
 * The test data set consists of 1459 observation units.
 
 
-My kaggle notebook  : https://www.kaggle.com/kubrabilinmis/house-price-predictionn
-Also you can access the dataset here https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+* My kaggle notebook  : https://www.kaggle.com/kubrabilinmis/house-price-predictionn
+* Also you can access the dataset information here :  https://www.kaggle.com/c/house-prices-advanced-regression-techniques
