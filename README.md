@@ -10,7 +10,10 @@ House prices are left blank in the test dataset, and these values will be estima
 ## Variables 
 * The train dataset consists of 1460 observations and 81 people, which can be 38 people and 43 categorically.
 * The test data set consists of 1459 observation units.
-
-
-* My kaggle notebook  : https://www.kaggle.com/kubrabilinmis/house-price-predictionn
 * Also you can access the dataset information here :  https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+
+
+## Kaggle   
+* https://www.kaggle.com/kubrabilinmis/house-price-predictionn
+
